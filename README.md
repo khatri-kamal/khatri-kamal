@@ -40,7 +40,7 @@
 
 ## 🎮 Exploring Virtual Realms Beyond Textbooks 🕹️
 
-<img align="right" alt="wizard" width="80" height="100" style="margin-top: -40px;  margin-bottom: -90 px;" src="https://media.giphy.com/media/5FxBZGIya7tebjhoYZ/giphy.gif"/>
+<img align="right" alt="wizard" width="80" height="100" style="margin-top: -40px;" src="https://media.giphy.com/media/5FxBZGIya7tebjhoYZ/giphy.gif"/>
 
 <p>When I'm not immersed in the pages of academic tomes, I embark on quests in Dark Souls, Hades, and Hollow Knight. 🌟🎮</p>
 
@@ -50,9 +50,10 @@
 
 ## ⚽ Elevating Mind and Body: Cosmic Sports 🏀
 
-<img align="right" alt="wizard" width="80" height="100" style="margin-top: -40px;  margin-bottom: -90 px;" src="https://media.giphy.com/media/JH0Laf0HiLEFzMUqwL/giphy.gif"/>
+<img align="right" alt="wizard" width="80" height="100" style="margin-top: -45px;" src="https://media.giphy.com/media/JH0Laf0HiLEFzMUqwL/giphy.gif"/>
 
 <p>Balance extends beyond academia—I also embrace cosmic sportsmanship. From asteroid courts to nebulae arenas, I celebrate athleticism against a backdrop of stars. Join me in achieving equilibrium between knowledge and vitality. 🏀</p>
+<br clear="all" />
 
 ---
 
@@ -66,5 +67,5 @@
 - [LinkedIn](https://linkedin.com/in/yourusername)
 
 ---
-<!-- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khatri-kamal&show_icons=true&theme=dark) -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khatri-kamal&show_icons=true&theme=dark)
