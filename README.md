@@ -67,5 +67,5 @@
 - [LinkedIn](https://linkedin.com/in/yourusername)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khatri-kamal&show_icons=true&theme=dark)
+<!-- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khatri-kamal&show_icons=true&theme=dark) -->
