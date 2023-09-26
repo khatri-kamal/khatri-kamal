@@ -65,7 +65,7 @@
 <p>Connect with me in the cosmic halls of academia:</p>
 
 - [Portfolio](https://kamal-khatri.vercel.app/)
-- [LinkedIn](https://linkedin.com/in/khatri-kamal/)
+- [LinkedIn](https://portfoliowebsite.com)
 
 ---
 <!-- 
