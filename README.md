@@ -36,25 +36,17 @@ These are the software and development tools I've used for various projects:
 ---
 
 ### My Activity
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khatri-kamal&theme=highcontrast)](https://git.io/streak-stats) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khatri-kamal&show_icons=true&theme=dark)
 
-<div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khatri-kamal&theme=highcontrast)](https://git.io/streak-stats) 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khatri-kamal&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khatri-kamal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khatri-kamal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br clear="all" />
 
 ---
 
 ## Connect With Me Online
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://media.giphy.com/media/sQB6lgeTlv5Krjq7YN/giphy.gif" alt="LinkedIn" width="100px" style="margin-top: -20px;">
-
-  <p>You can find more information about me on these platforms:</p>
-  - [Portfolio](https://kamal-khatri.vercel.app/)
-  - [LinkedIn](https://www.linkedin.com/in/khatri-kamal/)
-</div>
+<p>You can find more info about me:</p>
+-[LinkedIn](https://www.linkedin.com/in/khatri-kamal/)
 
 ---
