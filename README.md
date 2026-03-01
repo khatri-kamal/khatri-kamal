@@ -2,6 +2,10 @@
 
 I'm a final year computing science student.
 
+<br clear="all" />
+
+---
+
 I'm currently building a Language Learning web app as my final year project. It's designed to run locally in Docker and prioritizes user privacy. The app allows users to complete lessons, quizzes, access a dashboard, and practice conversation skills. A key feature is a practice range where users can interact with a local LLM in various languages. This acts as a conversational partner and teacher, offering a judgment-free environment for practicing real-world conversations. 
 
 The application utilizes three open-source models: Speech-to-Text (Vosk STT), a local Language Model (using the LM Studio API), and Text-to-Speech (kokoro TTS).
