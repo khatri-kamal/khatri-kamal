@@ -4,9 +4,9 @@ I'm a final year computing science student.
 <br clear="all" />
 
 ---
-I'm currently building a Language Learning web app as my final year project. It's designed to run locally in Docker and prioritizes user privacy. The app allows users to complete lessons, quizzes, access a dashboard, and practice conversation skills. A key feature is a practice range where users can interact with a local LLM. This acts as a conversational partner and teacher, offering a judgment-free environment for practicing real-world conversations. 
+I'm currently building a Language Learning web app as my final year project. It's designed to run locally in Docker and prioritises user privacy. The app allows users to complete lessons, quizzes, access a dashboard, and practice conversation skills. A key feature is a practice range where users can interact with a local LLM. This acts as a conversational partner and teacher, offering a judgment-free environment for practicing real-world conversations.
 
-The application utilizes three open-source models: Speech-to-Text (Vosk STT), a local Language Model (using the LM Studio API), and Text-to-Speech (kokoro TTS). Currently the webapp only supports English, Spanish and French and the kokoro is an extreamly high quality model with a natural accent and voice support. 
+The application utilises three open-source models: Speech-to-Text (Vosk STT), a local Language Model (using the LM Studio API), and Text-to-Speech (kokoro TTS). Currently, the web app only supports English, Spanish, and French.  Kokoro is an extremely high-quality model with a natural accent and voice support.
 
 <br clear="all" />
 
